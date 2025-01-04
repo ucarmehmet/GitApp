@@ -7,5 +7,9 @@ public class Runner {
         System.out.println("değişiklik 2");
 
 
+        // versiyon 3
+        System.out.println("değişiklik 3");
+
+
     }
 }
